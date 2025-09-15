@@ -63,6 +63,6 @@ Material:
     - _Specular: 0.1
     - __dirty: 0
     m_Colors:
-    - _BaseColor: {r: 0.06228374, g: 0.8320726, b: 0.9411765, a: 0}
-    - _Opacity: {r: 0.41911763, g: 0.41911763, b: 0.41911763, a: 0}
+    - _BaseColor: {r: 0.48787057, g: 0.48787057, b: 0.48787057, a: 0}
+    - _Opacity: {r: 0.30997294, g: 0.30997294, b: 0.30997294, a: 0}
   m_BuildTextureStacks: []
