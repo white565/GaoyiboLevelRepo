@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Stone03
+  m_Shader: {fileID: 4800000, guid: ebc8e56816c0bfd4d9233b495b4dc114, type: 3}
+  m_Parent: {fileID: 2100000, guid: 5f9b15033e7f759449e52e9b3cbb1cde, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - TCP2_RIM_LIGHTING
+  - _NORMALMAP
+  - _STATICHIGHLIGHTS1_ON
+  - _STATICHIGHLIGHTS_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: 903642cf8ff01fe47896dde16b90dc40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse1:
+        m_Texture: {fileID: 2800000, guid: 903642cf8ff01fe47896dde16b90dc40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainNormalmap:
+        m_Texture: {fileID: 2800000, guid: 0b17666817bf20a42913ea4f4e7bfbdd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainNormalmap1:
+        m_Texture: {fileID: 2800000, guid: 0b17666817bf20a42913ea4f4e7bfbdd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WSDiffuse:
+        m_Texture: {fileID: 2800000, guid: 72e788b6853dc864a8f29acdc6caff5a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WSNormalmap:
+        m_Texture: {fileID: 2800000, guid: d5156a175c8813a4b9324e7973e4f0eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Distancecolorblending: 30
+    - _Falloffcolor: 1
+    - _GrassTiling: 0.4
+    - _Grasshardness: 12.4
+    - _Grasshardness1: 12.4
+    - _Grassheight: 0.26
+    - _Grassheight1: 0.26
+    - _Grassmaskdetail: 0.5
+    - _Grasssharpen: 2.6
+    - _Grasssharpen1: 2.3
+    - _Main_tiling: 1.2
+    - _Main_tiling1: 1.2
+    - _Normalmapscale: 0.8
+    - _Rimoffset1: 0.639
+    - _TessPhongStrength: 1
+    - _TessValue: 3.3
+    - _WSTiling: 0.39
+    - _WSTiling1: 0.34
+    - _WS_Normalmapscale: 0.7
+    - _WS_Normalmapscale1: 0.8
+    - _WS_blend: 0.65
+    - _WS_blend1: 0.7
+    m_Colors:
+    - _Color_D: {r: 0.46264362, g: 0.5058824, b: 0.16470519, a: 1}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor1: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0.34624532, g: 0.3773585, b: 0.22249912, a: 0}
+    - _RimColor1: {r: 0.34624532, g: 0.3773585, b: 0.22249912, a: 0}
+    - _Shadowcolor: {r: 0.3921569, g: 0.454902, b: 0.5568628, a: 1}
+  m_BuildTextureStacks: []
